@@ -1,0 +1,208 @@
+06-17 12:55:42.328 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : B211 time : 11:11:24 isinside : 1
+06-17 12:55:42.328 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.329 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : B211 time : 11:12:25 isinside : 1
+06-17 12:55:42.329 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.329 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : B211 time : 11:13:25 isinside : 1
+06-17 12:55:42.329 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.329 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : B211 time : 11:14:27 isinside : 1
+06-17 12:55:42.329 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.330 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : B211 time : 11:15:28 isinside : 1
+06-17 12:55:42.330 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.330 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : B211 time : 11:16:29 isinside : 1
+06-17 12:55:42.330 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.331 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 1 place : null time : 11:17:29 isinside : 1
+06-17 12:55:42.331 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving -> moving
+06-17 12:55:42.334 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 1 place : null time : 11:18:29 isinside : 1
+06-17 12:55:42.334 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: moving~~
+06-17 12:55:42.334 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:19:31 isinside : 1
+06-17 12:55:42.335 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: moving -> notmoving
+06-17 12:55:42.337 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:20:31 isinside : 1
+06-17 12:55:42.337 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.337 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:21:32 isinside : 1
+06-17 12:55:42.337 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.338 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:22:33 isinside : 1
+06-17 12:55:42.338 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.338 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:23:34 isinside : 1
+06-17 12:55:42.338 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.338 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:24:35 isinside : 1
+06-17 12:55:42.339 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.339 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:25:36 isinside : 1
+06-17 12:55:42.339 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.339 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:26:38 isinside : 1
+06-17 12:55:42.339 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.339 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:27:39 isinside : 1
+06-17 12:55:42.340 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.340 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:28:40 isinside : 1
+06-17 12:55:42.340 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.340 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:29:42 isinside : 1
+06-17 12:55:42.340 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.340 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:30:43 isinside : 1
+06-17 12:55:42.341 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.341 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:31:43 isinside : 1
+06-17 12:55:42.341 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.341 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:32:45 isinside : 0
+06-17 12:55:42.341 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.343 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:33:46 isinside : 1
+06-17 12:55:42.344 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.344 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:34:47 isinside : 1
+06-17 12:55:42.344 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.344 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:35:48 isinside : 1
+06-17 12:55:42.344 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.344 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:36:48 isinside : 1
+06-17 12:55:42.344 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.344 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:37:49 isinside : 1
+06-17 12:55:42.344 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.344 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:38:50 isinside : 1
+06-17 12:55:42.344 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.344 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:39:51 isinside : 0
+06-17 12:55:42.344 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.345 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:40:52 isinside : 1
+06-17 12:55:42.345 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.345 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:41:53 isinside : 1
+06-17 12:55:42.345 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.345 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:42:54 isinside : 1
+06-17 12:55:42.345 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.345 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:43:55 isinside : 1
+06-17 12:55:42.345 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.345 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:44:55 isinside : 1
+06-17 12:55:42.345 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.345 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:45:55 isinside : 1
+06-17 12:55:42.345 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.345 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:46:56 isinside : 1
+06-17 12:55:42.346 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.346 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:47:58 isinside : 1
+06-17 12:55:42.346 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.346 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:48:59 isinside : 1
+06-17 12:55:42.346 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.346 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:50:00 isinside : 1
+06-17 12:55:42.346 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.346 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:51:01 isinside : 1
+06-17 12:55:42.346 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.346 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:52:02 isinside : 0
+06-17 12:55:42.346 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.346 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:53:02 isinside : 0
+06-17 12:55:42.346 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.347 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:54:03 isinside : 1
+06-17 12:55:42.347 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.347 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:55:04 isinside : 0
+06-17 12:55:42.347 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.347 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:56:05 isinside : 1
+06-17 12:55:42.347 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.347 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:57:06 isinside : 1
+06-17 12:55:42.347 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.347 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:58:07 isinside : 1
+06-17 12:55:42.347 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.347 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 11:59:09 isinside : 1
+06-17 12:55:42.347 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.347 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:00:11 isinside : 1
+06-17 12:55:42.348 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.348 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:01:12 isinside : 1
+06-17 12:55:42.348 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.348 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:02:12 isinside : 1
+06-17 12:55:42.348 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.348 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:03:12 isinside : 1
+06-17 12:55:42.348 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.348 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:04:13 isinside : 1
+06-17 12:55:42.348 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.348 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:05:14 isinside : 1
+06-17 12:55:42.348 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.348 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:06:16 isinside : 1
+06-17 12:55:42.348 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.349 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:07:17 isinside : 1
+06-17 12:55:42.349 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.349 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:08:18 isinside : 0
+06-17 12:55:42.349 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.349 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:09:18 isinside : 1
+06-17 12:55:42.349 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.349 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:10:18 isinside : 1
+06-17 12:55:42.349 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.349 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:11:19 isinside : 1
+06-17 12:55:42.349 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.349 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:12:21 isinside : 1
+06-17 12:55:42.349 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.350 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:13:22 isinside : 1
+06-17 12:55:42.350 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.350 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : dasan time : 12:14:22 isinside : 1
+06-17 12:55:42.350 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.350 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 1 place : null time : 12:15:23 isinside : 0
+06-17 12:55:42.350 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving -> moving
+06-17 12:55:42.352 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 1 place : null time : 12:16:23 isinside : 0
+06-17 12:55:42.352 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: moving~~
+06-17 12:55:42.352 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : bench time : 12:17:23 isinside : 1
+06-17 12:55:42.352 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: moving -> notmoving
+06-17 12:55:42.354 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : bench time : 12:18:24 isinside : 0
+06-17 12:55:42.354 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.354 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : bench time : 12:19:25 isinside : 1
+06-17 12:55:42.354 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.354 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : bench time : 12:20:25 isinside : 1
+06-17 12:55:42.354 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.354 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : bench time : 12:21:25 isinside : 1
+06-17 12:55:42.354 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.355 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 1 place : null time : 12:22:27 isinside : 0
+06-17 12:55:42.355 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving -> moving
+06-17 12:55:42.356 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 1 place : null time : 12:23:27 isinside : 0
+06-17 12:55:42.356 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: moving~~
+06-17 12:55:42.356 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 1 place : null time : 12:24:28 isinside : 1
+06-17 12:55:42.356 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: moving~~
+06-17 12:55:42.356 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : undongjang time : 12:25:29 isinside : 1
+06-17 12:55:42.357 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: moving -> notmoving
+06-17 12:55:42.358 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : undongjang time : 12:26:30 isinside : 0
+06-17 12:55:42.358 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.358 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : undongjang time : 12:27:32 isinside : 1
+06-17 12:55:42.358 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.358 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : undongjang time : 12:28:34 isinside : 1
+06-17 12:55:42.358 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.358 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : undongjang time : 12:29:34 isinside : 0
+06-17 12:55:42.358 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.359 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 1 place : null time : 12:30:35 isinside : 0
+06-17 12:55:42.359 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving -> moving
+06-17 12:55:42.360 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : undongjang time : 12:31:36 isinside : 1
+06-17 12:55:42.360 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: moving -> notmoving
+06-17 12:55:42.361 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 1 place : null time : 12:32:37 isinside : 1
+06-17 12:55:42.361 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving -> moving
+06-17 12:55:42.362 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 1 place : null time : 12:33:38 isinside : 1
+06-17 12:55:42.362 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: moving~~
+06-17 12:55:42.362 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 1 place : null time : 12:34:38 isinside : 1
+06-17 12:55:42.362 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: moving~~
+06-17 12:55:42.362 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:35:38 isinside : 1
+06-17 12:55:42.362 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: moving -> notmoving
+06-17 12:55:42.364 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 1 place : null time : 12:36:38 isinside : 1
+06-17 12:55:42.364 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving -> moving
+06-17 12:55:42.364 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:37:38 isinside : 1
+06-17 12:55:42.364 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: moving -> notmoving
+06-17 12:55:42.365 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:38:39 isinside : 1
+06-17 12:55:42.365 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.365 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:39:39 isinside : 1
+06-17 12:55:42.365 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.365 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:40:39 isinside : 1
+06-17 12:55:42.365 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.366 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:41:39 isinside : 1
+06-17 12:55:42.366 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.366 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 1 place : null time : 12:42:39 isinside : 1
+06-17 12:55:42.366 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving -> moving
+06-17 12:55:42.367 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:43:39 isinside : 1
+06-17 12:55:42.367 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: moving -> notmoving
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:44:39 isinside : 1
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:45:39 isinside : 1
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:46:39 isinside : 1
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:47:39 isinside : 1
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:48:39 isinside : 1
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:49:39 isinside : 1
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:50:39 isinside : 1
+06-17 12:55:42.368 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.369 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:51:39 isinside : 1
+06-17 12:55:42.369 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.369 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:52:40 isinside : 1
+06-17 12:55:42.369 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.369 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:53:40 isinside : 1
+06-17 12:55:42.369 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.369 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:54:40 isinside : 1
+06-17 12:55:42.369 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
+06-17 12:55:42.369 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: ismoving : 0 place : null time : 12:55:40 isinside : 1
+06-17 12:55:42.369 10309-10309/kr.ac.koreatech.yoonchul.a2017_1_mosyp_term D/selectDB: notmoving~~
